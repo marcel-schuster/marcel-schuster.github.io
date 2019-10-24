@@ -3,7 +3,19 @@
 
 @import "{{ site.theme }}";
 @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Ubuntu&display=swap");
 
 body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-family: "Ubuntu", sans-serif;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Roboto", sans-serif;
 }
