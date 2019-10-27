@@ -2,8 +2,6 @@
 
 ![Buchbild](01.jpg)
 
-text-align: justify
-
 ## Relevanz des Themas
 
 Das Statistische Bundesamt rechnet damit, dass die Bevölkerungsmenge in Deutschland bis zum Jahr 2060 auf 74,4 Millionen Menschen sinken wird. Durch den errechneten demographischen Wandel, der fortschreitenden Globalisierung und den Fachkräftemangel verändert sich das gesamte Konzept der Arbeitswelt hinsichtlich des betrieblichen Personalmanagements (Statistisches Bundesamt, 2019). In diesem Zusammenhang wird es für Unternehmen zunehmend von Bedeutung sein, einen hochqualifizierten und motivierten Mitarbeiterstamm zu rekrutieren beziehungsweise diesen an das Unternehmen langfristig zu binden, um weiterhin am Markt wettbewerbsfähig zu bleiben. Damit dieses Ziel erreicht wird, müssen die Arbeitgeber um Talente und Leistungsträger kämpfen und sich gegen die Konkurrenz durchsetzen. Bezüglich der Thematik fällt oft der Slogan „War for Talents“. Der Spruch zeigt auf, dass junge qualifizierte Nachwuchskräfte im Informationszeitalter die knappste und wichtigste Ressource für den Unternehmenserfolg sind. Werner Niefer, ausgezeichnet als Topmanager und Vorstandsvorsitzender der damaligen Mercedes Benz AG, war sich der Wichtigkeit des Humankapitals seinerzeit schon bewusst.
