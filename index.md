@@ -46,14 +46,25 @@ Anhand des eingangs erläuterten demographischen Wandels, der fortschreitenden G
 ###### Quellen
 
 Barrow, S., & Mosley, R. (2011). The employer brand: Bringing the best of brand management to people at work. New Jersey: John Wiley & Sons, S. 104 ff.
+
 Behrends, T., & Bauer, M. (2016). Employer Branding:Kritische Würdigung eines personalwirtschaftlichen Gestaltungsansatzes. Flensburger Hefte zu Unternehmertum und Mittelstand, No. 12, S. 16-20.
+
 Bruch, H., Fischer, J., & Färber, J. (2015). Arbeitgeberattraktivität von innen betrachtet - eine Geschlechter und Generationsfrage. Top Job Trendstudie.
+
 Bundesverband der Personalmanager. (OJ). Employer Branding Kompakt - Das Praxisheft für alle, die Employer Branding richtig machen, besser nutzen oder neu entdecken wollen. Berlin, S. 11.
+
 Deutsche Gesellschaft für Personalführung. (2012). Employer Branding - Die Arbeitgebermarke gestalten und im Personalmarketing umsetzen. (2. Auflage). Bielefeld: Bertelsmann Verlag GmbH & Co. KG, S. 53-57.
+
 Herten, K. (2015). Die Bedeutung von Soial Media zur Steigerung von Arbeitgeberattraktivität im deutschen Gesundheitswesen - Empirische Studie zur Social Media Nutzung im Bereich Employer Branding. Hamburg: Diplomica Verlag GmbH, S. 19-24.
+
 Kriegler, W. (2015). Praxishandbuch Employer Branding - mit Arbeitshilfen online: Mit Marke zum attraktiven Arbeitgeber werden. (2. Auflage). Freiburg: Haufe-Lexware GmbH & Co KG, S. 30-32, 357 ff.
+
 Latzel, J., Dürig, U., Peters, K., & Webers, J. P. (2015). Marke und Branding. In: Hesse, G., Mattmüller, R. (eds) Perspektivwechsel im Employer Branding. Wiesbaden: Springer Gabler, S. 17-24.
+
 Mrozek, S. (2009). Employer Branding - Praxisorientierte Personal- und Organisationsforschung. München: Rainer Hamm Verlag, S. 33-38.
+
 Statistisches Bundesamt. (4. Juli 2019). Abgerufen am 6. Oktober 2019 von https://www.destatis.de/DE/Themen/Gesellschaft- Umwelt/Bevoelkerung/Bevoelkerungsvorausberechnung/Tabellen/variante-1-2-3- altersgruppen.html;jsessionid=9D3B31DCBDC58B9392C4F0DE532C7A7E.internet72 2.
+
 Von Walter, B., & Kremmel, D. (2016). Employer Brand Management - Arbeitgebermarken aufbauen und steuern. St. Gallen, Schweiz: Springer Fachmedien Wiesbaden, S. 4-5.
+
 [Wissenschaft](https://www.wikipedia.com)
